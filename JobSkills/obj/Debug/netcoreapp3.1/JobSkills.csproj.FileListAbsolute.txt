@@ -1,0 +1,13 @@
+C:\Users\littu\source\repos\JobSkills\bin\Debug\netcoreapp3.1\JobSkills.exe
+C:\Users\littu\source\repos\JobSkills\bin\Debug\netcoreapp3.1\JobSkills.deps.json
+C:\Users\littu\source\repos\JobSkills\bin\Debug\netcoreapp3.1\JobSkills.runtimeconfig.json
+C:\Users\littu\source\repos\JobSkills\bin\Debug\netcoreapp3.1\JobSkills.runtimeconfig.dev.json
+C:\Users\littu\source\repos\JobSkills\bin\Debug\netcoreapp3.1\JobSkills.dll
+C:\Users\littu\source\repos\JobSkills\bin\Debug\netcoreapp3.1\JobSkills.pdb
+C:\Users\littu\source\repos\JobSkills\obj\Debug\netcoreapp3.1\JobSkills.csprojAssemblyReference.cache
+C:\Users\littu\source\repos\JobSkills\obj\Debug\netcoreapp3.1\JobSkills.AssemblyInfoInputs.cache
+C:\Users\littu\source\repos\JobSkills\obj\Debug\netcoreapp3.1\JobSkills.AssemblyInfo.cs
+C:\Users\littu\source\repos\JobSkills\obj\Debug\netcoreapp3.1\JobSkills.csproj.CoreCompileInputs.cache
+C:\Users\littu\source\repos\JobSkills\obj\Debug\netcoreapp3.1\JobSkills.dll
+C:\Users\littu\source\repos\JobSkills\obj\Debug\netcoreapp3.1\JobSkills.pdb
+C:\Users\littu\source\repos\JobSkills\obj\Debug\netcoreapp3.1\JobSkills.genruntimeconfig.cache
